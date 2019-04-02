@@ -6,6 +6,8 @@ https://www.shz.de/regionales/schleswig-holstein/ohne-zeitumstellung-wann-in-ihr
 https://www.noz.de/lokales/osnabrueck/artikel/1680569/ohne-zeitumstellung-sommerzeit-oder-lieber-winterzeit
 https://www.svz.de/regionales/mecklenburg-vorpommern/Ohne-Zeitumstellung-Sommerzeit-oder-lieber-Winterzeit-id23128987.html
 
+Fragen und Feedback gerne an a.behrend [ätt] noz [punkt] de
+
 ## Erläuterung:
 
 * Die Rohdaten wurden hier heruntergeladen und in Excel vorbearbeitet: https://www.sunearthtools.com/de/solar/sunrise-sunset-calendar.php
